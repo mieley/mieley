@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and building new tech to make work easier
 - 🌱 I’m currently learning ReactJS/NodeJS
 - 💞️ I’m looking to collaborate on similar project to learn more
-- 📫 How to reach me: raymondakudey@gmail.com
+- 📫 How to reach me: raymcfd@gmail.com
 
 <!---
 mieley/mieley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
